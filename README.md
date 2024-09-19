@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @InesKostova
+- 👋 Hi, I’m @Inesa Kostova
 - 👀 I’m interested in everything related to QA and especially projects and internship.
 - 🌱 I’m currently learning QA Fundamental in SoftUni.
 - 📫 How to reach me: in my profile in Linkedln.
